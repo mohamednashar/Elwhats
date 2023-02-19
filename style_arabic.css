@@ -3,7 +3,8 @@ body {
     font-family: 'Cairo', sans-serif;
     direction: rtl;
 }
-html{
+
+#body{
     overflow-x: hidden;
 }
 
